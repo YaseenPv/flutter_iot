@@ -1,16 +1,17 @@
-# flutter_iot
+# iot app flutter
 
-A new Flutter project.
+This is a sample Flutter app that demonstrates ui of iot app.
 
-## Getting Started
+## Prerequisites
 
-This project is a starting point for a Flutter application.
+Before running the app, make sure you have the following:
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed on your machine
+- An Android or iOS device/emulator
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screen record
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/YaseenPv/flutter_iot/assets/80461905/b219c0d3-0aaa-4fdf-9636-5bb5df9063b1
+
+
